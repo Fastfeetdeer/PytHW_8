@@ -28,4 +28,4 @@ while is_active:
     elif res == 6:
         is_active = False
     else:
-        print("Неверно")
+        print("Неверно,")
